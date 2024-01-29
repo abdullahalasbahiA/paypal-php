@@ -15,7 +15,7 @@
 <body>
     <div class="mt-5 container">
         <span class="float-right">&nbsp;You are not logged in <a href="?action=login">login</a> </span>
-        <span class="float-right"><a href="cart.html">Your cart (4)</a> </span>
+        <span class="float-right"><a href="?action=cart">Your cart (4)</a> </span>
         <h1><span class="text-info">SUPER</span> <span class="text-danger">SHOP</span></h1>
         <p class="text-success">The best online store</p>
         <hr>

@@ -93,12 +93,12 @@
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="products.html" role="button" class="btn btn-info">
+                    <a href="?action=products" role="button" class="btn btn-info">
                         Continue&nbsp;shopping
                     </a>
                 </td>
                 <td>
-                    <a href="checkout.html" role="button" class="btn btn-success">
+                    <a href="?action=checkout" role="button" class="btn btn-success">
                         Checkout
                     </a>
                 </td>
