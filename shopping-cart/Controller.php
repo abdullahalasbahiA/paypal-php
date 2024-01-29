@@ -12,6 +12,8 @@ class Controller
 
     public function showProducts()
     {
+        $products = new Products();
+        $products = $products->getAllProducts();
         require_once('layout/views/products.php');
     }
 
